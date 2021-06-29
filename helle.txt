@@ -1,0 +1,10 @@
+hello nihao! hello git!
+hello nihao! hello git!
+:WQ
+wq
+
+:wq
+
+:wq
+:wq!
+
